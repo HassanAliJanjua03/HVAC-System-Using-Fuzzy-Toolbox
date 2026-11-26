@@ -14,7 +14,7 @@ An academic study of fuzzy logic applied to heating, ventilation and air conditi
 
 | File | Purpose |
 | --- | --- |
-| [211223-HVACs System-Project Report.pdf](211223-HVACs%20System-Project%20Report.pdf) | Original source or design file |
+| [211223-HVACs System-Project Report.pdf](211223-HVACs%20System-Project%20Report.pdf) | Engineering report (PDF) |
 
 ## How to explore or reproduce
 
